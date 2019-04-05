@@ -24,17 +24,6 @@ class SingleAppTest(object):
         self.cap['udid'] = '127.0.0.1:62001'  # 并发uid判别
         self.cap['noReset'] = 'True'
 
-        # self.cap = {
-        #     "platformName": "Android",
-        #     "platformVersion": "4.4",
-        #     "deviceName": "172.23.80.69:62001",
-        #     "appPackage": "com.ss.android.article.news",
-        #     "appActivity": "com.ss.android.article.news.activity.MainActivity",
-        #     "noReset": True,
-        #     # "unicodekeyboard": True,  # 中文输入
-        #     # "resetkeyboard": True
-        #     "udid": "127.0.0.1:62001",
-        # }
         self.port = num
         self.driver = webdriver.Remote("http://localhost:{}/wd/hub".format(str(self.port)), self.cap)
 
