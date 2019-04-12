@@ -33,15 +33,14 @@
 
 
 二、环境部署(版本尽量统一)
->1、Appium安装 可去官网下载(server端)：http://appium.io/                                           Appium是一个自动化测试开源工具,支持iOS和android平台上的移动原生应用、移动Web应用和混合应用。appium封装了标准的selenium类库
+>1、Appium安装 可去官网下载(server端)：http://appium.io/  Appium是一个自动化测试开源工具,支持iOS和android平台上的移动原生应用、移动Web应用和混合应用。appium封装了标准的selenium类库
 
->2、Android SDK安装 下载地址：http://tools.android-studio.org/
-【安装前请确保已经存在JDK8(下载地址：https://www.oracle.com/technetwork/java/javase/downloads/index.html)】软件开发工具包,用于为特定的软件包、软件框架、硬件平台、操作系统等建立应用软件的开发工具的集合
+>2、Android SDK安装 下载地址：http://tools.android-studio.org/ 【安装前请确保已经存在JDK8(下载地址：https://www.oracle.com/technetwork/java/javase/downloads/index.html) 】 软件开发工具包,用于为特定的软件包、软件框架、硬件平台、操作系统等建立应用软件的开发工具的集合
 
->3、Python3.7 官网地址 https://www.python.org/downloads/windows/ 大家可先学习一下python基础，目前也还用不到多么深入的python知识，会 hello world！ 就行啦
+>3、Python3.7 官网地址 https://www.python.org/downloads/windows/ 大家可先学习一下python基础，目前也还用不到多么深入的python知识
 
 >4、Pycharm 官网地址 http://www.jetbrains.com/pycharm/download/#section=windows 下载专业版之后进行破解
 
->5、Android模拟器 夜神模拟器官网 https://www.yeshen.com/
+>5、Android模拟器 夜神模拟器官网 https://www.yeshen.com/ 并在里面安装今日头条app
 
 >6、JDK 官网地址 https://www.oracle.com/technetwork/java/javase/downloads/index.html 这里版本统一为jdk8
